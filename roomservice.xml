@@ -6,7 +6,7 @@
   <project name="Micha-Btz/kernel_xiaomi_sdm710" path="kernel/xiaomi/sdm710" remote="github" revision="pie" />
   <project name="Micha-Btz/device_xiaomi_common" path="device/xiaomi/common" revision="pie" />
   <project name="Micha-Btz/vendor_xiaomi_grus" path="vendor/xiaomi/grus" revision="aosp-pie" />
-  <project name="Micha-Btz/proprietary_vendor_xiaomi_sdm710-common" path="vendor/xiaomi/sdm710-common" revision="p" />
+  <project name="Micha-Btz/proprietary_vendor_xiaomi_sdm710-common" path="vendor/xiaomi/sdm710-common" revision="lineage-16.0" />
   <!--project name="TheMuppets/proprietary_xiaomi" path="vendor/xiaomi" revision="lineage-16.0" /-->
   <!--project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" revision="android-9.0"/-->
 </manifest>
